@@ -45,5 +45,8 @@
     "prettier": "^1.19.1",
     "ts-jest": "^24.3.0",
     "typescript": "^3.9.7"
+  },
+  "overrides": {
+    "minimist": "^1.2.7"
   }
 }
