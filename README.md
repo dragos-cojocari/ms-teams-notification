@@ -1,5 +1,5 @@
 <p>
-  <a href="https://github.com/dragos-cojocari/ms-teams-notification/actions"><img alt="ms-teams-notification status" src="https://github.com/dragos-cojocari/ms-teams-notification/workflows/Build%20&%20Test/badge.svg"></a>
+  <a href="https://github.com/dragos-cojocari/ms-teams-notification/actions"><img alt="ms-teams-notification status" src="https://github.com/dragos-cojocari/ms-teams-notification/workflows/Build%20&%20Test/badge.svg"></a> <img alt="vulnerabilities" src="https://snyk.io/test/github/dragos-cojocari/ms-teams-notification/badge.svg"></a>
 </p>
 
 Continues https://github.com/marketplace/actions/microsoft-teams-notification

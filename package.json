@@ -1,6 +1,6 @@
 {
-  "name": "typescript-action",
-  "version": "0.0.0",
+  "name": "ms-teams-notification",
+  "version": "1.0.1",
   "private": true,
   "description": "TypeScript template action",
   "main": "lib/main.js",
@@ -28,6 +28,7 @@
     "@octokit/rest": "^17.11.2",
     "axios": "^0.27.2",
     "moment-timezone": "^0.5.32",
+    "npm": "^9.1.2",
     "octokit": "^1.0.0-hello-world"
   },
   "devDependencies": {
