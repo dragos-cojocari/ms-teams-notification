@@ -24,7 +24,7 @@
   "license": "MIT",
   "dependencies": {
     "@actions/core": "^1.10.0",
-    "@octokit/graphql": "^4.5.8",
+    "@octokit/graphql": "^4.8.0",
     "@octokit/rest": "^17.11.2",
     "axios": "^0.27.2",
     "moment-timezone": "^0.5.32",
